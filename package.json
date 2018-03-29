@@ -3,7 +3,7 @@
   "description": "Connect to the Cumul.io API",
   "author": "Cumul.io Team <support@cumul.io>",
   "homepage": "https://cumul.io",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
